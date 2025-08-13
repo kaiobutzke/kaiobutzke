@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaiobutzke.
+- Hi, I’m @kaiobutzke.
 - Control and Automation Engineer.
 - Data Center Analyst.
 - You can reach me in linkedin.com/in/kaiobutzke/
